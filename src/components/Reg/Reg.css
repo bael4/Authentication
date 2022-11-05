@@ -1,0 +1,28 @@
+.reg {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    row-gap: 20px;
+    height: 95vh;
+}
+
+.reg h2 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.reg a {
+    text-decoration: none;
+}
+
+.textFildBox {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.textFildBox p {
+    color: red;
+    margin: 0;
+    margin-bottom: 10px;
+}
